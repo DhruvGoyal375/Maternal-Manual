@@ -1,6 +1,6 @@
-# Bump to Baby - Your Ultimate Pregnancy and Parenting Resource
+# Maternal Manual - Your Ultimate Pregnancy Resource
 
-Welcome to Bump to Baby, the ultimate web application designed specifically for expecting and new parents. Our goal is to provide a one-stop-shop for all your pregnancy and parenting information needs, so you can feel informed and empowered throughout your journey.
+Welcome to Maternal Manual, the ultimate web application designed specifically for expecting and new parents. Our goal is to provide a one-stop-shop for all your pregnancy and parenting information needs, so you can feel informed and empowered throughout your journey.
 
 Features
 
