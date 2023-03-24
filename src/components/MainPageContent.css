@@ -1,0 +1,36 @@
+body {
+    background-color: #89cff0;
+}
+
+.mainpage--fetus {
+  /* position: absolute; */
+  margin-top: 160px;
+  margin-left: 10%;
+}
+
+.mainpage--welcome,
+.mainpage--content {
+  position: absolute;
+  top: 8.38rem;
+  left: 46rem;
+  font-size: 8.13rem;
+  display: inline-block;
+  width: 41.25rem;
+  height: 10.44rem;
+  font-family: "Poppins";
+
+}
+
+.mainpage--welcome {
+    color: white;
+    margin: 0;
+}
+.mainpage--content {
+    border: 0;
+    font-size: 1.75rem;
+    top: 20rem;
+    left: 46.5rem;
+    color: black;
+    text-align: left;
+    height: 40rem;
+  }
