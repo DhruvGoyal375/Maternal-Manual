@@ -1,0 +1,146 @@
+.desktop-1-child {
+  position: absolute;
+  top: -0.37rem;
+  left: 0;
+  background-color: var(--color-cornflowerblue-200);
+  width: 90rem;
+  height: 8.13rem;
+}
+.aternity {
+  margin: 0;
+}
+.aternity-anual {
+  position: absolute;
+  top: 0.5rem;
+  left: 7.38rem;
+  font-size: var(--font-size-23xl);
+  font-family: var(--font-inter);
+  display: inline-block;
+  width: 14.25rem;
+  height: 6.69rem;
+  -webkit-text-stroke: 1px #fff;
+}
+.m {
+  position: absolute;
+  top: -1.62rem;
+  left: 2.56rem;
+  font-size: var(--font-size-109xl);
+  font-family: var(--font-jetbrains-mono);
+}
+.trimester-i,
+.trimester-ii,
+.trimester-iii {
+  position: absolute;
+  top: 2.81rem;
+  left: 27.69rem;
+  display: inline-block;
+  width: 13.25rem;
+  height: 3.75rem;
+  -webkit-text-stroke: 1px #fff;
+}
+.trimester-ii,
+.trimester-iii {
+  left: 47rem;
+}
+.trimester-iii {
+  left: 66.31rem;
+}
+.desktop-1-inner,
+.desktop-1-item {
+  position: absolute;
+  top: 20.88rem;
+  left: 9.38rem;
+  width: 24.94rem;
+  height: 25.06rem;
+}
+.desktop-1-inner {
+  top: 24.78rem;
+  left: 12.43rem;
+  width: 16.9rem;
+  height: 16.56rem;
+  opacity: 0.8;
+}
+.pregnancy-can-be,
+.welcome {
+  position: absolute;
+  top: 13.38rem;
+  left: 42rem;
+  font-size: 8.13rem;
+  display: inline-block;
+  width: 41.25rem;
+  height: 10.44rem;
+}
+.pregnancy-can-be {
+  border: 0;
+  background-color: transparent;
+  font-family: var(--font-poppins);
+  font-size: 1.75rem;
+  top: 25rem;
+  color: var(--color-black);
+  text-align: left;
+  width: 42.94rem;
+  height: 24.5rem;
+}
+.get-started {
+  position: relative;
+}
+.get-started-button {
+  position: absolute;
+  top: 52.69rem;
+  left: 48.94rem;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-cornflowerblue-100);
+  border: 8px solid var(--color-cornflowerblue-300);
+  box-sizing: border-box;
+  width: 30%;
+  height: 6.25rem;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs) 0 var(--padding-3xs) var(--padding-3xs);
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-41xl);
+}
+.desktop-1 {
+  position: relative;
+  background-color: var(--color-skyblue);
+  width: 100%;
+  height: 64rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-jetbrains-mono: "JetBrains Mono";
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-41xl: 3.75rem;
+  --font-size-13xl: 2rem;
+  --font-size-109xl: 8rem;
+  --font-size-23xl: 2.63rem;
+
+  /* Colors */
+  --color-skyblue: #89cff0;
+  --color-cornflowerblue-100: #69a8f3;
+  --color-cornflowerblue-200: #3f93f5;
+  --color-cornflowerblue-300: #4582ca;
+  --color-white: #fff;
+  --color-black: #000;
+
+  /* Paddings */
+  --padding-3xs: 0.63rem;
+
+  /* border radiuses */
+  --br-31xl: 50px;
+}
