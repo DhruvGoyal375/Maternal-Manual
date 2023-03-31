@@ -9,3 +9,4 @@ Welcome to Maternity Manual, the ultimate web application designed specifically 
   ~Easy Navigation: Our web application is easy to navigate and user-friendly, with a wealth of articles and resources to help you find what you need quickly and easily.
   
   ~Support Every Step of the Way: Whether you're a first-time parent or have been through it all before, we're here to support you every step of the way.
+  
