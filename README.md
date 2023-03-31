@@ -1,8 +1,8 @@
-# Maternal Manual - Your Ultimate Pregnancy Resource
+# Maternity Manual - Your Ultimate Pregnancy Resource
 
-Welcome to Maternal Manual, the ultimate web application designed specifically for expecting parents. Our goal is to provide a one-stop-shop for all your pregnancy information needs, so you can feel informed and empowered throughout your journey.
+Welcome to Maternity Manual, the ultimate web application designed specifically for expecting parents. Our goal is to provide a one-stop-shop for all your pregnancy information needs, so you can feel informed and empowered throughout your journey.
 
-Features
+## Features
 
   ~Pregnancy Information: Our web application provides information on each stage of pregnancy, including what to expect physically and emotionally, tips for staying healthy, and advice on preparing for childbirth.
   
