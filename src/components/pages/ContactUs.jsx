@@ -5,7 +5,6 @@ import Dhruv from "../../images/dhruv.jpg"
 import Anirudh from "../../images/anirudh2.jpg"
 import Ujjawal from "../../images/ujjawal.jpeg"
 import Rishabh from "../../images/rishabh.jpeg"
-import BabyImg from "../../images/pngwing.com.png"
 export default function ContactUs() {
   return (
     <>
