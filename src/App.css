@@ -54,9 +54,8 @@
 .api {
   display: flex;
   justify-content: center;
-  /* margin-top: 150px; */
-  /* padding-bottom: 5%; */
-  padding-top: 200px;
+  margin-top: 150px;
+  padding-bottom: 5%;
 }
 .api-img {
   margin-left: 100px;
@@ -65,7 +64,6 @@
 }
 .api-text {
   align-self: center;
-  padding-left: 100px;
 }
 .api-text-quote {
   font-size: 25px;
