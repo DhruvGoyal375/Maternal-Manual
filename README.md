@@ -24,7 +24,7 @@ Welcome to Maternity Manual, the ultimate web application designed specifically 
 #### `npm run dev`
 
 ## Usage
-Once the server is running, open a web browser and navigate to http://localhost:{port_number}. Navigate through the main page and click `Find Nearest Help` button to get the information about nearest hospitals, doctors and pharmacies by providing your location. You can go through the trimesters in navbar to get information specific to them.
+Once the server is running, open a web browser and navigate to http://localhost:{port_number}. Navigate through the main page and click `Find Help Nearby` button to get the information about nearest hospitals, doctors and pharmacies by providing your location. You can go through the trimesters in navbar to get information specific to them.
 
 ## Contributing
 Contributions to this project are welcome. If you find a bug or have an idea for a new feature, please open an issue or submit a pull request.
