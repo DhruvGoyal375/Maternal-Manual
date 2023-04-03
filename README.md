@@ -14,14 +14,14 @@ Welcome to Maternity Manual, the ultimate web application designed specifically 
   
 ## Installation
 ### To use this project, simply clone the repository onto your local machine:
-#### git clone https://github.com/DhruvGoyal375/Maternity-Manual.git
+#### `git clone https://github.com/DhruvGoyal375/Maternity-Manual.git`
 
 ### Then, navigate to the project directory and install the necessary dependencies:
-#### cd Maternity-Manual
-#### npm install
+#### `cd Maternity-Manual`
+#### `npm install`
 
 ### Finally, start the server:
-#### npm run dev
+#### `npm run dev`
 
 ## Usage
 Once the server is running, open a web browser and navigate to http://localhost:{port_number}. Navigate through the main page and click `Find Nearest Help` button to get the information about nearest hospitals, doctors and pharmacies by providing your location. You can go through the trimesters in navbar to get information specific to them.
