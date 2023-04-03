@@ -1,0 +1,134 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+.outer-container {
+    background-color: #89CFF0;
+    display:flex;
+    font-size: 25px;
+    justify-content: center;
+}
+
+.trimester-info {
+    margin: 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    /*box-shadow: 0px 0px 10px 3px lightgrey;*/
+    padding: 20px;
+    margin-top: 200px;
+    width:90%;
+}
+
+.do-dont-container {
+    width: 100%;
+    margin: auto;
+    justify-content: center;
+    display: flex;
+    justify-content: space-around;
+    background-color: #89CFF0;
+    padding-bottom: 100px;
+}
+
+.do-container {
+    background: white;
+    /*box-shadow: 0px 0px 10px 3px lightgrey;*/
+    margin-right: 10px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 40px;
+    margin-left: 80px;
+    padding: 20px;
+    border-radius: 20px;
+    font-size: 25px;
+    width:45%;
+}
+
+.dont-container {
+    background: white;
+    /*box-shadow: 0px 0px 10px 3px lightgrey;*/
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 80px;
+    margin-left: 40px;
+    padding: 20px;
+    border-radius: 20px;
+    font-size: 25px;
+    width:45%;
+}
+.text {
+    padding: 5px;
+}
+
+.head {
+    text-align: center;
+}
+
+.info-para {
+    padding: 20px;
+    line-height: 1.6;
+}
+
+
+@media screen and (max-width: 600px) {
+    .do-dont-container {
+        width: 100%;
+        margin: auto;
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        background-color: #89CFF0;
+        padding-bottom: 100px;
+    }
+    
+    .do-container {
+        background: white;
+        /*box-shadow: 0px 0px 10px 3px lightgrey;*/
+        margin-top: 100px;
+        margin: 0px;
+        align-self: center;
+        padding: 20px;
+        border-radius: 20px;
+        font-size: 25px;
+        width:80%;
+        margin-top: 50px;
+    }
+    
+    .dont-container {
+        background: white;
+        /*box-shadow: 0px 0px 10px 3px lightgrey;*/
+        margin-top: 60px;
+        margin: 0px;
+        align-self: center;
+        padding: 20px;
+        border-radius: 20px;
+        font-size: 25px;
+        width:80%;
+        margin-top: 60px;
+    }
+    .text {
+        padding: 5px;
+    }
+    
+    .head {
+        text-align: center;
+    }
+    
+    .info-para {
+        padding: 10px;
+        line-height: 1.6;
+    }
+
+    .trimester-info {
+        margin: 20px;
+        background-color: white;
+        border-radius: 20px;
+        /*box-shadow: 0px 0px 10px 3px lightgrey;*/
+        padding: 20px;
+        margin-top: 150px;
+        width:90%;
+    }
+}
