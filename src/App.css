@@ -36,6 +36,7 @@
   font-size: 25px;
   text-align: center;
   padding-top: 30px;
+  /* font-weight: 400; */
 }
 .home-para {
   text-align: center;
@@ -47,12 +48,12 @@
   width: 40vw;
   height: auto;
   display: inline-block;
+  /* justify-content: start; */
 }
 
 .api {
   display: flex;
   justify-content: center;
-  background-color: #64c0eb;
   padding-top: 150px;
 }
 .api-img {
@@ -62,7 +63,6 @@
 }
 .api-text {
   align-self: center;
-  padding-left: 70px;
 }
 .api-text-quote {
   font-size: 25px;
@@ -163,7 +163,7 @@
   }
   .api {
     display: flex;
-    justify-items: center;
+    justify-content: center;
     flex-direction: column;
     margin-top: 150px;
     padding-bottom: 5%;
@@ -171,17 +171,16 @@
   .api-img {
     margin: 0px;
     max-width: 30%;
+    margin-right: 30px;
     align-self: center;
     order: 1;
   }
   .api-text {
     align-self: center;
     order: 2;
-    padding-left: 0;
   }
   .api-text-quote {
     font-size: 25px;
-    padding-left: 10px;
   }
   .api-text-find {
     font-size: 40px;

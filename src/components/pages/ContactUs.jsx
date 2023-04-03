@@ -18,7 +18,6 @@ export default function ContactUs() {
                 Engineering College, Chandigarh. I am a member of the Implementation Body of PEC ACM-CSS. Interested in data science 
                 and machine learning. Occassionaly try new beatbox patterns.</h3>
         </div>
-
         <div className="box box2">
             <img className="Circular-img" src={Anirudh} />
             <h3>I am Anirudh Ralhan currently pursuing Electronics and Communications Engineering at Punjab
@@ -27,22 +26,23 @@ export default function ContactUs() {
                 of all sorts. Sometimes, I sketch.</h3>
         </div>
     </div>
-
     <div className="container">
+
         <div className="box box3">
+
             <img className="Circular-img" src={Ujjawal} />
             <h3>I am Ujjawal Gupta currently pursuing Computer Science and Engineering at Punjab Engineering College
                 Chandigarh. I am currently in the Organising Team of GDSC PEC and have experience in the field of Web
                 Development. I am interested in building projects which have significant impact on the life of people and
                 love solving problems.</h3>
         </div>
-
         <div className="box box4">
             <img className="Circular-img" src={Rishabh} />
             <h3>I am Rishabh Bhargava currently pursuing Electrical Engineering at Punjab Engineering College, Chandigarh. I am member of
                 Implementation Body of PEC ACM-CSS. I am interested in Web-Development and Personal-finance. 
                 I love to organise events and I am a content-writer too..</h3>
         </div>
+
     </div>
 
         <div className="contact-us">
