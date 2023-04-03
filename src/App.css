@@ -36,7 +36,6 @@
   font-size: 25px;
   text-align: center;
   padding-top: 30px;
-  /* font-weight: 400; */
 }
 .home-para {
   text-align: center;
@@ -48,13 +47,13 @@
   width: 40vw;
   height: auto;
   display: inline-block;
-  /* justify-content: start; */
 }
 
 .api {
   display: flex;
   justify-content: center;
-  margin-top: 150px;
+  background-color: #64c0eb;
+  padding-top: 150px;
 }
 .api-img {
   margin-left: 100px;
@@ -104,7 +103,6 @@
 
 
 .contact-us {
-  /* background-image: url('./images/img-4.jpg'); */
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -114,7 +112,6 @@
 }
 
 .sign-up {
-  /* background-image: url('./images/img-7.jpg'); */
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
